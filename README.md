@@ -1,5 +1,5 @@
 # NotionQuotes
-Inspired and created by https://github.com/saman/notion-quote, using my repo to add some different quotes, all the code was developed by https://github.com/saman.
+Inspired and created by https://github.com/saman/notion-quote, using my repo to add some different quotes, all the code was developed by https://github.com/saman I just forked to have all the stuff organized.
 
 To give a look to the quote ↓
 
